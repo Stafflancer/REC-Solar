@@ -1,0 +1,9 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="42.57" height="23.5" viewBox="0 0 42.57 23.5">
+  <g id="Icon-EnergyStorage" transform="translate(42.57) rotate(90)">
+    <g id="REC-Solar-Icon_BESS-Charged">
+      <rect id="Rectangle_15107" data-name="Rectangle 15107" width="22" height="38" rx="2" transform="translate(0.75 3.82)" fill="none" stroke="#000" stroke-linecap="round" stroke-linejoin="round" stroke-width="1.5"/>
+      <path id="Path_71942" data-name="Path 71942" d="M8.75,3.75v-1a2.006,2.006,0,0,1,2-2h2a2.006,2.006,0,0,1,2,2v1" fill="none" stroke="#000" stroke-linecap="round" stroke-linejoin="round" stroke-width="1.5"/>
+      <path id="Path_71943" data-name="Path 71943" d="M13.84,14.8a.517.517,0,0,0-.74.11L7.04,23.2a.384.384,0,0,0-.11.32.5.5,0,0,0,.53.53h3.93L9.16,30.21a.514.514,0,0,0,.21.64c0,.11.11.11.21.11a.593.593,0,0,0,.43-.21l6.48-8.82a.46.46,0,0,0,0-.53c-.11-.21-.21-.32-.43-.32H11.92l2.13-5.63c0-.21,0-.53-.21-.64Z"/>
+    </g>
+  </g>
+</svg>

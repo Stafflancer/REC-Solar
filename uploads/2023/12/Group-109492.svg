@@ -1,0 +1,26 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="50.135" height="38.29" viewBox="0 0 50.135 38.29">
+  <g id="Group_109492" data-name="Group 109492" transform="translate(-10.5 -11.445)">
+    <path id="Path_72071" data-name="Path 72071" d="M36.087,27.116H26.751l-5.032-7h9.336Z" transform="translate(2.961 1.447)" fill="none" stroke="#000" stroke-miterlimit="10" stroke-width="1.5"/>
+    <path id="Path_72072" data-name="Path 72072" d="M40.4,33.116H31.063l-5.031-7h9.336Z" transform="translate(3.681 2.449)" fill="none" stroke="#000" stroke-miterlimit="10" stroke-width="1.5"/>
+    <path id="Path_72073" data-name="Path 72073" d="M44.71,39.116H35.374l-5.032-7h9.336Z" transform="translate(4.4 3.451)" fill="none" stroke="#000" stroke-miterlimit="10" stroke-width="1.5"/>
+    <path id="Path_72074" data-name="Path 72074" d="M27.775,33.116H18.44l-5.031-7h9.336Z" transform="translate(1.573 2.449)" fill="none" stroke="#000" stroke-miterlimit="10" stroke-width="1.5"/>
+    <path id="Path_72075" data-name="Path 72075" d="M32.087,39.116H22.751l-5.032-7h9.336Z" transform="translate(2.293 3.451)" fill="none" stroke="#000" stroke-miterlimit="10" stroke-width="1.5"/>
+    <line id="Line_1784" data-name="Line 1784" y2="7.508" transform="translate(32.183 32.199)" fill="none" stroke="#000" stroke-miterlimit="10" stroke-width="1.5"/>
+    <g id="Group_109491" data-name="Group 109491" transform="translate(3.984 11.445)">
+      <g id="Group_109493" data-name="Group 109493">
+        <line id="Line_1785" data-name="Line 1785" y2="6.418" transform="translate(28.198 31.122)" fill="none" stroke="#000" stroke-miterlimit="10" stroke-width="1.5"/>
+        <line id="Line_1786" data-name="Line 1786" y2="13.42" transform="translate(16.028 24.12)" fill="none" stroke="#000" stroke-miterlimit="10" stroke-width="1.5"/>
+        <circle id="Ellipse_366" data-name="Ellipse 366" cx="5.159" cy="5.159" r="5.159" transform="translate(41.375 4.958)" fill="none" stroke="#000" stroke-linejoin="round" stroke-width="1.5"/>
+        <line id="Line_1791" data-name="Line 1791" x1="2.334" transform="translate(36.417 10.117)" fill="none" stroke="#000" stroke-linejoin="round" stroke-width="1.5"/>
+        <line id="Line_1792" data-name="Line 1792" x1="2.334" transform="translate(54.316 10.117)" fill="none" stroke="#000" stroke-linejoin="round" stroke-width="1.5"/>
+        <line id="Line_1793" data-name="Line 1793" x1="1.65" y2="1.65" transform="translate(39.38 15.62)" fill="none" stroke="#000" stroke-linejoin="round" stroke-width="1.5"/>
+        <line id="Line_1794" data-name="Line 1794" x1="1.65" y2="1.65" transform="translate(52.037 2.963)" fill="none" stroke="#000" stroke-linejoin="round" stroke-width="1.5"/>
+        <line id="Line_1795" data-name="Line 1795" y2="2.334" transform="translate(46.533 17.899)" fill="none" stroke="#000" stroke-linejoin="round" stroke-width="1.5"/>
+        <line id="Line_1796" data-name="Line 1796" y2="2.334" transform="translate(46.533)" fill="none" stroke="#000" stroke-linejoin="round" stroke-width="1.5"/>
+        <line id="Line_1797" data-name="Line 1797" x2="1.65" y2="1.65" transform="translate(52.037 15.62)" fill="none" stroke="#000" stroke-linejoin="round" stroke-width="1.5"/>
+        <line id="Line_1798" data-name="Line 1798" x2="1.65" y2="1.65" transform="translate(39.38 2.963)" fill="none" stroke="#000" stroke-linejoin="round" stroke-width="1.5"/>
+        <line id="Line_1799" data-name="Line 1799" x2="49" transform="translate(6.516 37.54)" fill="none" stroke="#000" stroke-miterlimit="10" stroke-width="1.5"/>
+      </g>
+    </g>
+  </g>
+</svg>
